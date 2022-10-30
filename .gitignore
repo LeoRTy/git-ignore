@@ -1,0 +1,21 @@
+# Ignora arquivo .HTML especifico
+index-teste.html
+# Ignorar Pastas
+node_modules
+
+### react ###
+.DS_*
+# Ignora log de erros e etc...
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
